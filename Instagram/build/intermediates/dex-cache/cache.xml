@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_12d86b3c77518ece069ad17abea4822e26aed73a.jar" />
+    </item>
+    <item
+        jar="/Users/yiying/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.0_ec3a11c996ea90dbfbe89b6db45231fa6fe5110d.jar" />
+    </item>
+    <item
+        jar="/Users/yiying/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d86a3ee46c64d6df85f1679f1b34e02dd2803622.jar" />
+    </item>
+    <item
+        jar="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_86a9602c749fe86285c07767002231a110bc504a.jar" />
+    </item>
+    <item
+        jar="/Users/yiying/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_aea91578bc7d948332b35ad1988ef169c7fa252d.jar" />
+    </item>
+    <item
+        jar="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/yiying/Documents/AndroidProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_65695fac46edd67354876e30bd14a5392d347e2c.jar" />
+    </item>
+
+</items>
